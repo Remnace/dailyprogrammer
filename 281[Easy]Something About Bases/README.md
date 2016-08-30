@@ -20,12 +20,21 @@ The smallest possible base that the given number can belong to, and it's equival
 ##Example:
 
 Say you were given:
+
 1
+
 21
+
 ab3
+
 ff
+
 Your output would simply be:
+
 base 2 => 1
+
 base 3 => 7
+
 base 12 => 1575
+
 base 16 => 255
